@@ -1,5 +1,5 @@
 package com.example.networking;
-
+@SuppressWarnings("WeakerAccess")
 public class Mountain {
     private String name;
     private String location;
